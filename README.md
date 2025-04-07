@@ -3,6 +3,6 @@ A simple clicker game built in Godot Engine [v4.0.alpha16.official.](https://god
 
 Made in 8 hours
 
-Utilizes my 4.0 fork of GodotBigNumberClass at [ynot01/GodotBigNumberClass](https://github.com/ynot01/GodotBigNumberClass/tree/GD4)
+Utilizes [GodotBigNumberClass](https://github.com/ChronoDK/GodotBigNumberClass)
 
 ![](https://i.imgur.com/fgDHwCA.png)
